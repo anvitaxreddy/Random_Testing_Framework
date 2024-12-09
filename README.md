@@ -9,3 +9,6 @@ This project is a **Random Testing Framework** that automates the process of gen
    ```bash
    git clone https://github.com/your-username/random-testing-framework.git
    cd random-testing-framework
+2. pip install -r requirements.txt
+3. python main.py
+
