@@ -1,0 +1,155 @@
+Description: Testing buggy_function_boolean with Arrays inputs.
+Total Tests Run: 150
+Passed: 0
+Failed: 150
+Failure Cases:
+Input: ['', 0, 'sK', 'j', 'Jnv2H', 'U'], Error: Input is not a boolean
+Input: ['', -240, 'U', 'O', '', -486, 'lIMLjrj', 'b'], Error: Input is not a boolean
+Input: [''], Error: Input is not a boolean
+Input: [-979], Error: Input is not a boolean
+Input: ['S', '', 719, 527, 895, 0, -384, 346, -788, -952], Error: Input is not a boolean
+Input: ['v', '', 'xPKVMHoih5PwZ2tcq8', '', -511, 906, 'woaZKr'], Error: Input is not a boolean
+Input: [-776, 0, 'k', 'X', 'X1TftdPXap', 'yBEMwugfD', 478, 0, 0], Error: Input is not a boolean
+Input: [-195, 'p', -310, 561, 0, -784], Error: Input is not a boolean
+Input: ['weCpHPAp', 'jxUk', 'J', '62L88A', -903], Error: Input is not a boolean
+Input: [47, 't'], Error: Input is not a boolean
+Input: [0, 0, 'h', 611], Error: Input is not a boolean
+Input: [''], Error: Input is not a boolean
+Input: [-639, 'W', 'LN9FNsV1XOFu797Jhv'], Error: Input is not a boolean
+Input: [0, '', -75, 780], Error: Input is not a boolean
+Input: ['', 0, -557, '', -181, -157, 280, 0, '', -679], Error: Input is not a boolean
+Input: ['m', 0, 0, '', -117, 'rytWm787vfrXPnMeH', ''], Error: Input is not a boolean
+Input: ['w', -266, 848, 'S', 335, 'T', 485, '', 'IvUE95W6q2nHgkFxXVb', 'q'], Error: Input is not a boolean
+Input: ['yT62yZRlW', 'N', '', 'WTHfS3QoKAhQgCDzMrW', 302, -626, 'rkQETt3U7MT5e8in', ''], Error: Input is not a boolean
+Input: [483], Error: Input is not a boolean
+Input: ['IsYk', 178, 'r', 'mnbrjG2NiwYsWMRWs', 932, 0], Error: Input is not a boolean
+Input: ['L', '', 'kb', '', 'luOCkvl', '', '', '', 0, 'b'], Error: Input is not a boolean
+Input: ['', -295, 'e', '', '', 'f', -976], Error: Input is not a boolean
+Input: [0, '', 'AxLEAvt3UWyh4M', -248, -614, '', 0], Error: Input is not a boolean
+Input: ['B', 'pkNp4LY', ''], Error: Input is not a boolean
+Input: [541, 852, 800, 452, 0, 'EY985XMaF', 950, 'p', 0], Error: Input is not a boolean
+Input: ['e', 0, 'q', '', '6U', -349], Error: Input is not a boolean
+Input: [968, '4z0pMkz'], Error: Input is not a boolean
+Input: [161, 'aM7dunnmY26uL', 'O', 0, 'IcqPxMpJA6C9w', '', 293], Error: Input is not a boolean
+Input: ['', 488, -235, 'g', 'M', 'a', -235, -100], Error: Input is not a boolean
+Input: ['LmNZLtBdr', 552, 'HcuqCBVSHXsb', 0, 965, 0, 'D', 0, -923, ''], Error: Input is not a boolean
+Input: ['', 'rF', 'N', 438, 'K'], Error: Input is not a boolean
+Input: [-198, 'I', 'N4Te', 'FCHJa5QCDnLk12', -352], Error: Input is not a boolean
+Input: [-380, 0, '', '8yxJ95'], Error: Input is not a boolean
+Input: [-890, 'X'], Error: Input is not a boolean
+Input: [-710, 'Q', 695, 'R', 0, -254, 0], Error: Input is not a boolean
+Input: [-413, 'A494PyjGQXs', -691, 249, -868, ''], Error: Input is not a boolean
+Input: ['A4', -594, 0, 'wIUZv', 0, 0, '', ''], Error: Input is not a boolean
+Input: ['t'], Error: Input is not a boolean
+Input: ['E', 'u', 'W', -864, 'muY1AXGxaN1', '', -845, 0, 'rBT', 'uSQxojLL7A'], Error: Input is not a boolean
+Input: [0, 'b', 'K', 'C3hHNifZzC569Hw'], Error: Input is not a boolean
+Input: ['', 'c', 0, 457, 0, '', 0, 0], Error: Input is not a boolean
+Input: [-370, 'y', 'f', -700, 'i', 0, '', -733, 'Z'], Error: Input is not a boolean
+Input: ['DT7c2TZhW1l4po', 834, -495, 'W', '', -900, 202, 850, -51, ''], Error: Input is not a boolean
+Input: [0, 945, 'H', 0, -21, 0, 'lM'], Error: Input is not a boolean
+Input: ['e2g', 'g', 471, '', 615, 121, 239], Error: Input is not a boolean
+Input: ['', -215, '', 'J', 'a'], Error: Input is not a boolean
+Input: ['', 569, 'z9m7oF3uGlgOv3y', 'zVcUFFMsQjLB', 't'], Error: Input is not a boolean
+Input: ['g', 65, 'j', -814, '0myV1SQAa2O', 0, 'B', -620, ''], Error: Input is not a boolean
+Input: [732, 0, 'O9lHtdkaA3wwt', '', 'm', 'P', 0, 446, 'I', 794], Error: Input is not a boolean
+Input: ['hSlrQu4UB', 'XXAmXBpGSTmgZPIZc3', 'qsS8kF', 'a', 'Y', 'h', 0, 763], Error: Input is not a boolean
+Input: ['u5pfI98j9env3', -22, '', 0, 'u'], Error: Input is not a boolean
+Input: [359, 'c', 0, 'J', '1pDi6j7U0dnm', 'Iu', 'p', 'V', 431, 'A'], Error: Input is not a boolean
+Input: ['u', 'jR6z', 435], Error: Input is not a boolean
+Input: ['v1WxSguzNU'], Error: Input is not a boolean
+Input: ['', 166, '', -673], Error: Input is not a boolean
+Input: ['c', 0, '', 0, -753, 842, -180], Error: Input is not a boolean
+Input: ['', 0, '', 610, 0, 'p', 'ZXXlGcMRsFc6fsWEr', 'pDOin55UWEU'], Error: Input is not a boolean
+Input: ['O', 0, 0, -617], Error: Input is not a boolean
+Input: [-394, 'C', '', '', 'QqL9FPHyNdfST', '', -234], Error: Input is not a boolean
+Input: [820, 'Z', 'ZXFhCT', '', 'p', 0, 'r', 418], Error: Input is not a boolean
+Input: [-296], Error: Input is not a boolean
+Input: ['R', '', '', 0], Error: Input is not a boolean
+Input: [0, 0, 0, 'B', 0], Error: Input is not a boolean
+Input: [-534, 'S', -19, -639, '', -459, 0], Error: Input is not a boolean
+Input: ['e', '', 'G0IlrBrbAJ', '', 'XprFgqIgEw1Fg5JP', 47, -920, 'SauvCSuZ'], Error: Input is not a boolean
+Input: [-478, -515, 'nvuj', 'a', 486], Error: Input is not a boolean
+Input: ['', 0, 'JmyGYloLXmA'], Error: Input is not a boolean
+Input: [0, 'P7', -333, 921, 957, '', 'Z', '', 'lhR', -492], Error: Input is not a boolean
+Input: ['', '', '', ''], Error: Input is not a boolean
+Input: ['', 'a', -222, 0, '', 263], Error: Input is not a boolean
+Input: [200, 'Fka4YAYIGayMFS1t', -36], Error: Input is not a boolean
+Input: ['C', 'mWX01ytIekG', 529, 'hoG7GBJAoesV', '', 733], Error: Input is not a boolean
+Input: [-407], Error: Input is not a boolean
+Input: [-244, 47, -61, '', '', 0, 'WuKszy', 339, -92, 429], Error: Input is not a boolean
+Input: [342, '', 110, 519, 'kXbDy', 'y7gy3q'], Error: Input is not a boolean
+Input: ['z2tsKt11UYLg9W9', -145, 121, 903, 0, ''], Error: Input is not a boolean
+Input: ['', 0, -189, 0, 'f', ''], Error: Input is not a boolean
+Input: [0, 0, 'wVnx8P', ''], Error: Input is not a boolean
+Input: [697, 0, '', 778, 0, 0, 743, '', 'a'], Error: Input is not a boolean
+Input: [-182, -659, -683, 'z'], Error: Input is not a boolean
+Input: ['e', 'Ah', '', 0, 'c', 236, 'rIwUFFo', ''], Error: Input is not a boolean
+Input: ['', 501, 'aNV0M6kAKUkmoxNwhpJZ', 0], Error: Input is not a boolean
+Input: [0], Error: Input is not a boolean
+Input: [363, 'r', ''], Error: Input is not a boolean
+Input: [-30, 985], Error: Input is not a boolean
+Input: [155, 'b', -991], Error: Input is not a boolean
+Input: ['f', 161, 'NQs8JSk', 0, 'y', ''], Error: Input is not a boolean
+Input: ['dzaN2Jics6Hgj'], Error: Input is not a boolean
+Input: [-457, '', -143, 'X', 749], Error: Input is not a boolean
+Input: [-99, 'L'], Error: Input is not a boolean
+Input: [202, 0, 74, -546, '4BNEthRSxCokjnKfWHy'], Error: Input is not a boolean
+Input: ['', 0, '', '', 0, 'X', 503, 0, 'XDdnH0d', 'n8cYFh3gv'], Error: Input is not a boolean
+Input: ['Qv8IkoFb4', -161, -60, '8qcHmqFFKToZKhl', '', '', 'pFXMjbuJySQUkB4Ji0', 'B'], Error: Input is not a boolean
+Input: ['b', -198, '', 'a'], Error: Input is not a boolean
+Input: ['', '', 0, 23], Error: Input is not a boolean
+Input: ['', 238, 523, 'LjO', 'I', 'it', 'zqAKF', 0], Error: Input is not a boolean
+Input: [0, -5, 'zudUS', 'g', 'cIpXl3m', 'W', '', -67, 0], Error: Input is not a boolean
+Input: ['F'], Error: Input is not a boolean
+Input: [-374, ''], Error: Input is not a boolean
+Input: ['j', 'c', '', 'U'], Error: Input is not a boolean
+Input: ['hTwh1', 'bVMQdpWbLmIg', -299, '', 390, 0, 410, -640], Error: Input is not a boolean
+Input: [0, 'jpDhXSEvm', 'J', -336], Error: Input is not a boolean
+Input: [0, '', ''], Error: Input is not a boolean
+Input: ['aTDywGa4BalOoU', '6SLFmNs'], Error: Input is not a boolean
+Input: ['TUTPcHbn8k0vf6RGAR', -530, 100, '', -87, 'R', '', -105], Error: Input is not a boolean
+Input: [0, '', -884, -538, 'ooTp6y8', 161, 0], Error: Input is not a boolean
+Input: [-414, 194, 'Z'], Error: Input is not a boolean
+Input: [0, -448, '', 0, 'V', 'Iqj6yL6Dpi'], Error: Input is not a boolean
+Input: [58, '', 'z0zd4VRKxOAR5daj'], Error: Input is not a boolean
+Input: ['k', 'rLLZ5bkdP', 'h', '1t94W9YC4', 'pXwvSkYAZi5dX10YOjd', 'P', 490, '', 'D', -392], Error: Input is not a boolean
+Input: [-728, 0, 978, '', 0, 0, 821, '', 'USs', 'hp4LRmGaUV0b8bxMj'], Error: Input is not a boolean
+Input: ['wmhDBy7Ob', 0], Error: Input is not a boolean
+Input: [-669, 'P', '', 'DD6ds', 918, 'h', 0, -451], Error: Input is not a boolean
+Input: ['R', '', '', 'EqcicA', 'w', '', 'GalZchosYWTnSdX65TBM', '3Qwv', 320, -245], Error: Input is not a boolean
+Input: [718, 'q', 'D', -385, 'P244ZUBaoCt6ElGzV', '7XBt65Xn1zqc34Zb', 'Am8dLx2lwA9H'], Error: Input is not a boolean
+Input: [-665, '', 0, 'cesHWeCNwpy', 'e', -730, 0, -351, ''], Error: Input is not a boolean
+Input: ['ctFVrZF0lg8Io', '', 'S1Zjm', 'h', 715, '', 'j', -581, 80, '84ABw2SBm'], Error: Input is not a boolean
+Input: [0, 712, 0], Error: Input is not a boolean
+Input: [0, 275, 0, '', -67, -344, 'b'], Error: Input is not a boolean
+Input: [215, -870, 'a', -418], Error: Input is not a boolean
+Input: ['R', 321, 'M', -355], Error: Input is not a boolean
+Input: [0, 173, 'p', 'IUvEA', 862, 0, 'G'], Error: Input is not a boolean
+Input: [0], Error: Input is not a boolean
+Input: [889, 997, 'u', '', '', 13, 604, ''], Error: Input is not a boolean
+Input: [664, 'G20j', 817, '88WvZ9KOM7ALSJ', -600, '', 497, -910, 103], Error: Input is not a boolean
+Input: [-614, -641, 'G', 'wexcmr', 990], Error: Input is not a boolean
+Input: [996, -192, 354, -475, 0, '5d9f0xyVJChMlaxtxxF'], Error: Input is not a boolean
+Input: [0, 0], Error: Input is not a boolean
+Input: ['K'], Error: Input is not a boolean
+Input: ['o6Hf8biKcgeHMSGq2WVz', 890, 'K4YLS6MNlKL7kVOAqUFB'], Error: Input is not a boolean
+Input: ['', 0], Error: Input is not a boolean
+Input: ['Q', '', 'lZhDlrODwxJp', 'gYfPIHbR5u', -851, 'h', 0, 'xhx2oTHPaANd', '', 'A'], Error: Input is not a boolean
+Input: [0, 0, 827, 'JP', 'Jxe2ODS1UMg84xrWrK', 516, 0], Error: Input is not a boolean
+Input: [0, 313, 0, 'Q', -711, 'D1g', 'IrzgLFni9W0U', 915], Error: Input is not a boolean
+Input: ['', 0, 0, -623, -735, 0, '', 0], Error: Input is not a boolean
+Input: [0, -574, 0, 788, 0, -890, 429, 'k'], Error: Input is not a boolean
+Input: ['dC6E5fdyGWsmS6ePod', -413, 239], Error: Input is not a boolean
+Input: ['', 'q', 'g', 'RW', 0], Error: Input is not a boolean
+Input: [-959, 'h'], Error: Input is not a boolean
+Input: ['nvynrb7L8j8', 875, 'C', '', -684, 'UdimGjye7TM', 0, ''], Error: Input is not a boolean
+Input: ['', 516, 692, '', 920, -653, 'HvrnmiIJeJeLM', 'wOBUvddhoN31oin'], Error: Input is not a boolean
+Input: ['', 'L', 'sdyG', 0, -491, 'v', ''], Error: Input is not a boolean
+Input: [0, -266, 'TF4tVlZkxd1'], Error: Input is not a boolean
+Input: [-948, 0, 'x', '', '', 0, 'y', 'UcK7A', 185], Error: Input is not a boolean
+Input: ['d', '6apuScL2YPdcf', 310, ''], Error: Input is not a boolean
+Input: [120, 0, -667, -402, 0, 0, 'g', '', 0], Error: Input is not a boolean
+Input: ['X'], Error: Input is not a boolean
+Input: [0, -667, -664, 357, 'a', 0, -341, ''], Error: Input is not a boolean
+Input: ['6S5uvOh'], Error: Input is not a boolean
+Input: [-575, -162, 'XvrCGEB', 'nG69W5V2HEDnL', 409, '', 'V2fcpsaMD38rPZJb'], Error: Input is not a boolean

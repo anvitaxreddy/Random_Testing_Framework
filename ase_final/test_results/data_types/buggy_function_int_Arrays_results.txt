@@ -1,0 +1,155 @@
+Description: Testing buggy_function_int with Arrays inputs.
+Total Tests Run: 150
+Passed: 0
+Failed: 150
+Failure Cases:
+Input: [50, -254, 'Y', 'w', -235, 184, -983], Error: Input is not an integer
+Input: ['', '', -290, '', 'L', 'J8b'], Error: Input is not an integer
+Input: ['', 'vV', -179, '', 0, 'x', 'F'], Error: Input is not an integer
+Input: ['T', ''], Error: Input is not an integer
+Input: [-193], Error: Input is not an integer
+Input: ['A'], Error: Input is not an integer
+Input: [0, 'lfgKqjvX', -346, '', 'FJ', 0, 'k', 962, -327, 'm5'], Error: Input is not an integer
+Input: ['W', 'i', 'w', 'w'], Error: Input is not an integer
+Input: ['e', 'vGu', 0, 'A', 'q', 'p', 0, 'TIfSg6l2mW6'], Error: Input is not an integer
+Input: ['NU5DefuCmF4', 209, -101, 40, 'qBT5zVxIVCORSmRK', -236, 4, 0, 'k', 0], Error: Input is not an integer
+Input: [635, '', '', -692, '', '', -769, -453], Error: Input is not an integer
+Input: ['h', -1000], Error: Input is not an integer
+Input: ['x', 'U', 'DF', 0], Error: Input is not an integer
+Input: ['r', '', -646, 0, -1000, 'CaW3fs', 'm', 646, ''], Error: Input is not an integer
+Input: [0, 0, 'oSlLzZpHCEyD', 412, '', -440, 0, 'n'], Error: Input is not an integer
+Input: [409, 'D2', 0, '', '', -127, '', 'Ow4EnHhQm4Rzj8Akc', '', 'Llyi4DCiJrggd5Gi'], Error: Input is not an integer
+Input: [0, 'Q', 'f', 719, 0, '6Jtd1YFSOlOCKj97', 'z', '2GO2g', 'VJBPM8MQzhuW'], Error: Input is not an integer
+Input: [251, 'Kv3H', 0, 196], Error: Input is not an integer
+Input: [191, 265, 0, 'sy'], Error: Input is not an integer
+Input: [277, 0, 422, 927, 'A', '', -746, 0, 0, 'PMdSjhqWi0FRoTp6VH9'], Error: Input is not an integer
+Input: ['', -878], Error: Input is not an integer
+Input: [0, 'm', 'M', '', 'h', '', -793, 'RNi', -9, ''], Error: Input is not an integer
+Input: ['', 557, 'Z', 210, 0, 0, 'hEtry9HtcyV7Jpl4AvP'], Error: Input is not an integer
+Input: [-14, '', ''], Error: Input is not an integer
+Input: ['R', 800, 0], Error: Input is not an integer
+Input: [0, 'w', '', 'XOm2E33NVKzBV1kVo', -711, 803], Error: Input is not an integer
+Input: [28, '', 0, 0, '', 'R', '', 'hBoKJyHb7k', ''], Error: Input is not an integer
+Input: [13, 'hfj5T'], Error: Input is not an integer
+Input: ['', '', 0], Error: Input is not an integer
+Input: ['s1LAybrZ', 622, '', 900], Error: Input is not an integer
+Input: [0, 'Q', -922], Error: Input is not an integer
+Input: ['', '', 0], Error: Input is not an integer
+Input: ['PM0Cpt5UU2ViW9vJSv'], Error: Input is not an integer
+Input: ['7GXN'], Error: Input is not an integer
+Input: [-288], Error: Input is not an integer
+Input: ['v', -479, 'FDSx0L8Z2kwMSJCD260', 293, 462, -972, 113, 'GDD9NAvs'], Error: Input is not an integer
+Input: [''], Error: Input is not an integer
+Input: ['P', '', -629, 594, -424], Error: Input is not an integer
+Input: ['', 'Spg5R', -248], Error: Input is not an integer
+Input: [-194, 0, 287, 437], Error: Input is not an integer
+Input: ['', 257, -898], Error: Input is not an integer
+Input: [0], Error: Input is not an integer
+Input: ['', -715, 0], Error: Input is not an integer
+Input: ['enbXA3mfgbT', ''], Error: Input is not an integer
+Input: [-109, 'cB', 531, 'V', 801], Error: Input is not an integer
+Input: [0, -664, 0, 'T', 593, 0], Error: Input is not an integer
+Input: ['Pw0YLiuLB4cxLOkiP', 913, 0, 0, 660, 'egaYnweEi0wFKrgJw', 0, 234, 0, 'OsjkVNrEvtl'], Error: Input is not an integer
+Input: ['C', 0], Error: Input is not an integer
+Input: [-474, 'v', '', 0, 'D', '', 139, 'iSyceINdwA20DjAc'], Error: Input is not an integer
+Input: ['MV8aozfbAFo9HIHjE', -405, 0, -320, '', 168, -560, '', 705, -216], Error: Input is not an integer
+Input: [895, 961, -217, 566, -94], Error: Input is not an integer
+Input: [0, 82], Error: Input is not an integer
+Input: ['K', 934, 0, 158, -87, 0, 0, -358, 'q', -113], Error: Input is not an integer
+Input: [-216, 0], Error: Input is not an integer
+Input: [15, 458], Error: Input is not an integer
+Input: ['w0QwBxl8C', '', -834, '', 'R', '', 101, 'JRQTCnW'], Error: Input is not an integer
+Input: [-460, 0, -161, 'qJ', 'bAWTFjSSQH01ozFi8Dh'], Error: Input is not an integer
+Input: [793, 'frQVjjk3kaqj'], Error: Input is not an integer
+Input: ['OU65w', 'Q', '', 'j', -566], Error: Input is not an integer
+Input: [0, 'M', '', 'o', 'd', ''], Error: Input is not an integer
+Input: ['3dHkdL', 802, 0], Error: Input is not an integer
+Input: ['', '', 'vrMHXdTia8AVIe6kx', 'V', -93, 0], Error: Input is not an integer
+Input: [578, '', -951, -708, 0, '', 'Q'], Error: Input is not an integer
+Input: ['b'], Error: Input is not an integer
+Input: [579, -404], Error: Input is not an integer
+Input: ['a5Wq8P0NmIhQRI2h', 0, 'hFGVsajeeftNlgoJ4TX', 'gfKITsGlp9DIPqcB', '', -148, 0], Error: Input is not an integer
+Input: ['', -875, 225, 0, 304, 'I', '', ''], Error: Input is not an integer
+Input: [600, 'XhaUi9YnESpeXu7Z', 'U', 0, 'n', 0], Error: Input is not an integer
+Input: [0], Error: Input is not an integer
+Input: ['Kw41', -895, -852, '', 666, 'G', 'wzRF53Qm3w9EuA5ulVA', ''], Error: Input is not an integer
+Input: [0, 'LmON', -624, -416, 0, 0, 0], Error: Input is not an integer
+Input: ['', 'lRVEb9KfL', -828, ''], Error: Input is not an integer
+Input: ['g', 'rYS', -991, 429, 'SQZ0tACxQheYgL6NTM', -779, 'Zz8FguSQM', 289], Error: Input is not an integer
+Input: [698, -868, '9DzeKNcLy', 'f', 994, -178], Error: Input is not an integer
+Input: [0, '', -537, -124], Error: Input is not an integer
+Input: ['', 0, 'kpS3bCMgtBhXD4YtH', 574, 975, '', 'D', 'cf7Ir', 471], Error: Input is not an integer
+Input: [824, '', 'FwEy4wetDwdRSYdF', 'JSnosFuKJ8t9rj', 0, 'd', '', 0, 0, 0], Error: Input is not an integer
+Input: ['0tdF00WyoNLp7nYQXk5z', 'r', 0, 0, 712, 'Q', 'F2RMnOW0', 0, 799], Error: Input is not an integer
+Input: [-455, 0, '', -341, -954, '', 99], Error: Input is not an integer
+Input: [840, 0, '', 'E', 'w'], Error: Input is not an integer
+Input: ['qZLopSI5OFSXp', -553, ''], Error: Input is not an integer
+Input: [0, 'U'], Error: Input is not an integer
+Input: [0, 120, 'qEfBbmrIlh', 287, -2, -723], Error: Input is not an integer
+Input: [0, 0], Error: Input is not an integer
+Input: ['', 778, 'w', -192, 'MDCnJEfqYi6h1IYk'], Error: Input is not an integer
+Input: ['AW2HVhSs6'], Error: Input is not an integer
+Input: [-595, 119, -103, 0], Error: Input is not an integer
+Input: [367], Error: Input is not an integer
+Input: ['g'], Error: Input is not an integer
+Input: [-739], Error: Input is not an integer
+Input: ['SRGr2eilhQ', -332, '', 0, 'Z', '', 'K', 'r', 928], Error: Input is not an integer
+Input: ['utKfK0HJj', 417, 'U', '', '', 604, -75, 'uR8BWw3', -330, 514], Error: Input is not an integer
+Input: [-727], Error: Input is not an integer
+Input: ['O', -218, 198, -589, 0, -492], Error: Input is not an integer
+Input: [8, 'Unl6B', -82, '', 'oPheAOItHgl24XiBlsp', -821, 0, -178], Error: Input is not an integer
+Input: ['k', 578, 'V', 'nM1z'], Error: Input is not an integer
+Input: [785], Error: Input is not an integer
+Input: [0, 848, 761, 'pKRCvbm', 0, 0, 'I', 'W', 'g'], Error: Input is not an integer
+Input: ['d', -157, 'pEuw7b', 399, 0, '', -217, ''], Error: Input is not an integer
+Input: ['io7tPnJ5fvtKO0Tti', -286, 'e', -233, '', '', -812, 274, 'cy5UeY2k2AP', 'W'], Error: Input is not an integer
+Input: [181, 'M', 'J', 871, 384, 'M', 0, '', 'M7gQvLTKQmm9PwUClp'], Error: Input is not an integer
+Input: ['', '', '', 0], Error: Input is not an integer
+Input: ['T', -200, 0, '4tgga0'], Error: Input is not an integer
+Input: ['4WaA2', -440, 0, 'rgYZF'], Error: Input is not an integer
+Input: [0], Error: Input is not an integer
+Input: [644, 550, -250, 76, 'y'], Error: Input is not an integer
+Input: [367, 0, 'Qt0TsBAZIjNT', '3fYopNCQSVpOO', 0, 'J2JiK3oFthuYn9CPPE'], Error: Input is not an integer
+Input: [0], Error: Input is not an integer
+Input: ['76TqdPvQ7', 838, 'hydi', 'T', 'TZnX', 'I'], Error: Input is not an integer
+Input: ['e', 762, -544, 919, '', 'd', 'B', 687, 'j'], Error: Input is not an integer
+Input: ['', 0], Error: Input is not an integer
+Input: ['KzE', 'cl', 533, '', 'v'], Error: Input is not an integer
+Input: [4, 'glSACmSZSjUHAQ', -195, -357, '', -13, -484, 501, 745, 0], Error: Input is not an integer
+Input: [0, -481, '', 0, 'm', 0, '', '', -903, 'Tq1n1wD76C9rWsFCiTzI'], Error: Input is not an integer
+Input: [0, 'E', 'TlQVoBJbakam9Gy', 0, 0, '17FE0Al8vI', '', 0], Error: Input is not an integer
+Input: ['', 0, '', 0, '', 'VyOFzZFsVjN'], Error: Input is not an integer
+Input: [-814, -780, 'qfSXQd34oXTgh0D', 'i'], Error: Input is not an integer
+Input: [-804, -11, 683, '', -245, 'tqYc', 'pg3NKgnIQ30'], Error: Input is not an integer
+Input: [0, '1iAurHyntevqokA1WpY', 0, 925, 0, 919, '', 'J', -82], Error: Input is not an integer
+Input: ['', -73], Error: Input is not an integer
+Input: ['A', -956, -244, 0, 'j'], Error: Input is not an integer
+Input: ['', 'asQsywk0NkO', 856], Error: Input is not an integer
+Input: [0, 0, '', 521], Error: Input is not an integer
+Input: [0, 'y27f9rDWJqEhMAX', 'kfiWvpW', 'v', 'LHD8XLOjfhoAp5WRb'], Error: Input is not an integer
+Input: ['yWfsHbd', 'Y', -228, -106, 'd', 'ApFRUNL', -889], Error: Input is not an integer
+Input: ['KWM4atbO7', -685, 678, 0, 0, 612, 0, 'Va', 'm'], Error: Input is not an integer
+Input: [286, -465, 'KCEG8LlVv4lGPZzXbl1P', 0, 0], Error: Input is not an integer
+Input: [0], Error: Input is not an integer
+Input: [673, -455, '', '', '', 0, -936, 'CbB4032ljfGQkMSKrS3', '', 0], Error: Input is not an integer
+Input: [-630], Error: Input is not an integer
+Input: ['2oLA1w4Mwg', '', '', 'j5W6SOxHWAg2', 'aw', 0, ''], Error: Input is not an integer
+Input: [8], Error: Input is not an integer
+Input: [-162, 'EMI', 514, -986, 154, 893, '5ufdnVM'], Error: Input is not an integer
+Input: ['', 648], Error: Input is not an integer
+Input: [0, 0, -763], Error: Input is not an integer
+Input: [375, 0, '', 'rTjBFgAl7K'], Error: Input is not an integer
+Input: [967, 'SEIFL'], Error: Input is not an integer
+Input: [0, 679], Error: Input is not an integer
+Input: [-690, 759, -497], Error: Input is not an integer
+Input: ['D', '', 459], Error: Input is not an integer
+Input: [0, -865, 0], Error: Input is not an integer
+Input: [0, 'ltYOR9sWFGDp', 'e8SRJ5JcW3Mfaeya6SuH', -349, 191], Error: Input is not an integer
+Input: [350, 'etv7', '', ''], Error: Input is not an integer
+Input: ['', -256, '', 'iZMq3Cb', 'a'], Error: Input is not an integer
+Input: ['', 'J', 'rh8f7L4Km', '', -235, 0, 0, 'e', '', -839], Error: Input is not an integer
+Input: [424, 736, -93, 0, 'wAEbQXwdvmJ0', 'xj', '', -65, -744, -256], Error: Input is not an integer
+Input: ['dJgLgedKWNABlsrCs6', 'x', 314, 0, -81, ''], Error: Input is not an integer
+Input: ['TrtREtR', 0, 'z', 'V'], Error: Input is not an integer
+Input: ['x', 'o', '', 603, 'bMvHHndnvzKkHNb'], Error: Input is not an integer
+Input: ['P', 724, 0], Error: Input is not an integer

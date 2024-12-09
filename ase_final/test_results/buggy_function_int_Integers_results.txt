@@ -1,0 +1,14 @@
+Description: Testing buggy_function_int with Integers inputs.
+Total Tests Run: 150
+Passed: 150
+Failed: 0
+Time Taken: 0.00 seconds
+Failure Cases:
+
+Comparison with Manual Testing:
+Manual Testing Total: 0
+Manual Testing Passed: 0
+Manual Testing Failed: 0
+Manual Testing Time Taken: 2.64 seconds
+
+Manual Testing Inputs and Outputs:

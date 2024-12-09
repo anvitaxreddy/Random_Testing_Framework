@@ -1,0 +1,5 @@
+Description: Testing buggy_function_boolean with Booleans inputs.
+Total Tests Run: 150
+Passed: 150
+Failed: 0
+Failure Cases:

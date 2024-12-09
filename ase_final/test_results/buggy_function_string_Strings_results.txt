@@ -1,0 +1,72 @@
+Description: Testing buggy_function_string with Strings inputs.
+Total Tests Run: 150
+Passed: 92
+Failed: 58
+Time Taken: 0.00 seconds
+Failure Cases:
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+('', 'Empty string not allowed!')
+
+Comparison with Manual Testing:
+Manual Testing Total: 0
+Manual Testing Passed: 0
+Manual Testing Failed: 0
+Manual Testing Time Taken: 0.35 seconds
+
+Manual Testing Inputs and Outputs:
